@@ -1,19 +1,61 @@
-Lanarkstone's Westie Treasures
-Overview
-Lanarkstone's Westie Treasures is a web-based e-commerce and digital preservation platform for West Highland White Terrier collectibles.
+Lanark Stone's Westie Treasures
+Project Overview
+Lanark Stone's Westie Treasures is a web-based e-commerce application developed as a portfolio project supporting coursework in:
 
-The project supports:
-
-Online product catalog
-Inventory management
-Customer purchasing
-Historical collection preservation
-Business reporting and analytics
-Courses
 AD371 Application Architecture
 AD450 Data Science Development
-Project Manager
-David Davis
+The project allows customers to browse products, manage shopping carts, and place orders while providing administrators with tools to manage products, inventory, orders, and business reporting.
 
-Current Phase
-Project Planning and Requirements Analysis
+AD371 Focus
+Application Architecture and System Design
+
+Key Deliverables
+Use Case Model
+User Stories
+Requirements Documentation
+UML Diagrams
+System Architecture Documentation
+AD450 Focus
+Data Analytics and Business Intelligence
+
+Key Deliverables
+Data Collection Strategy
+Data Cleaning Process
+Data Filtering Process
+KPI Definitions
+Business Dashboards
+Business Intelligence Reports
+Recommendations and Insights
+Repository Structure
+documentation/
+├── AD371/
+│   ├── Use-Case-Model
+│   ├── User-Stories
+│   └── Requirements
+│
+└── AD450/
+    ├── Analytics-Hierarchy
+    ├── Business-Questions
+    ├── Data-Sources
+    ├── KPI-Definitions
+    └── Recommendations
+
+    Current Project Status
+Completed
+Project repository created
+Documentation structure established
+Use Case hierarchy developed
+AD450 analytics framework established
+
+In Progress
+Requirements documentation
+User stories
+Data source identification
+KPI development
+Analytics documentation
+
+Upcoming
+Dashboard design
+Data visualizations
+Business reporting
+System refinement
